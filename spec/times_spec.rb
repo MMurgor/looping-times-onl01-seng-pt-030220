@@ -1,6 +1,6 @@
 
 .times do using_times 
-	puts 
+	puts "Wingardium Leviosa"
 	""
 	
 	end

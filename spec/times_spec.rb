@@ -1,4 +1,4 @@
-7.times do using_times 
+7.times do 
 	puts "Wingardium Leviosa"
 	"Wingardium Leviosa"
 	"Wingardium Leviosa"

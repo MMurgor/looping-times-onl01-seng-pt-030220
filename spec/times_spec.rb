@@ -1,9 +1,12 @@
 
 .times do using_times 
-	puts "Wingardium Leviosa"
+	puts "Wingardium Leviosa 7 times"
 	"Wingardium Leviosa"
 	"Wingardium Leviosa"
 	"Wingardium Leviosa"
-	
+	"Wingardium Leviosa"
+	"Wingardium Leviosa"
+	"Wingardium Leviosa"
+	"Wingardium Leviosa"
 	end
 end
